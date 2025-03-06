@@ -1,6 +1,6 @@
 #  Yo, devs! Wassup? 👋, I’m Levi Precious, aka Brainbox
 
-## I'm a Software Engineer, Instructor, Content Creator, and Entrepreneur.
+## I'm a Software Engineer, Instructor, Content Creator, and Tech Entrepreneur.
 
 - 💞️ I love teaching coding and supporting students & fellow developers—when I'm not deep in massive projects!
 - 💡 I’m passionate about AI, medicine, and chemistry-related tech. I love teaching & content creation, building scalable projects, and exploring business & entrepreneurship. I'm also into Linux & open-source tech!
