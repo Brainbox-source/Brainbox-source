@@ -1,21 +1,56 @@
-#  Yo, devs! Wassup? 👋, I’m Levi Precious, aka Brainbox
+# Hi, I'm Levi Precious Izuchi 👋
 
-## I'm a Software Engineer, Instructor, Content Creator, and Tech Entrepreneur.
+**Front-End UI Developer · TypeScript & React · Open to Remote Roles (US)**
 
-- 💞️ I love teaching coding and supporting students & fellow developers—when I'm not deep in massive projects!
-- 💡 I’m passionate about AI, and physics-related tech. I love teaching & content creation, building scalable projects, and exploring business & entrepreneurship. I'm also into Linux & open-source tech!
-- 🌱 I'm steadily growing and leveling up my [YouTube channel](https://www.youtube.com/channel/UC9WkyxpMd4-c1QRIX5278WQ)
-- 🤝 I’m looking to collaborate on AI projects, physics-related tech, scalable software solutions, open-source contributions, and innovative business ventures.
-- 🚀 Goal: Stand out and make an impact.
+I build fast, clean, and scalable web applications — and I love teaching others to do the same.
+Currently running [De'Brains Tech](https://debrainstech.com/), a software engineering bootcamp where I wear the hats of CEO, lead engineer, and instructor.
 
-## 🤝 Let's Connect
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Brainbox-source)
-[<img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="40">](https://www.tiktok.com/@brainbox7003)
-[<img src="https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg" width="40">](https://discord.com/channels/@me)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40">](https://www.instagram.com/brainbox7003/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40">](https://x.com/home)
+---
 
-## 📞 Contact me
+## 🛠️ Tech Stack
 
-- **Email**: leviprecious324@gmail.com
-- **GitHub**: [@Levi Precious](https://github.com/Brainbox-source)
+**Frontend**
+`React` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `React Native`
+
+**Styling**
+`Tailwind CSS` `shadcn/ui` `Vanilla CSS`
+
+**Backend & Tools**
+`Node.js` `Express.js` `MongoDB` `Firebase` `Bun` `Docker` `Git`
+
+---
+
+## 🚀 Featured Projects
+
+### [De'Brains Tech Website](https://debrainstech.com/)
+Company website for my software engineering bootcamp — built with **React + TypeScript + Tailwind CSS**.
+Fully responsive, cross-browser compatible, and performance optimized.
+
+### [Bretil Mart](https://bretil-mart.web.app/)
+A modern online grocery marketplace with real-time delivery tracking, secure payments, and an adaptive shopping experience.
+Built with **HTML · CSS · Vanilla JS · Node.js · Firebase**.
+
+---
+
+## 📌 What I'm About
+
+- 💻 Passionate about building great UIs and writing clean, maintainable code
+- 🎓 Teaching and mentoring developers through De'Brains Tech Bootcamp
+- 🌍 Open-source enthusiast and Linux advocate
+- 📹 Growing my [YouTube channel](https://www.youtube.com/channel/UC9WkyxpMd4-c1QRIX5278WQ) — coding content for devs at every level
+- 🤝 Open to collaborating on AI tools, scalable web apps, and open-source projects
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-precious-1a2898374/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leviprecious324@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9WkyxpMd4-c1QRIX5278WQ)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@brainbox7003)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brainbox7003/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/home)
+
+---
+
+*"Build things that matter. Teach what you know. Keep leveling up."*
