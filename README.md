@@ -1,6 +1,6 @@
 # Hi, I'm Levi Precious Izuchi 👋
 
-**Front-End UI Developer · TypeScript & React · Open to Remote Roles (US)**
+**Software Engineer**
 
 I build fast, clean, and scalable web applications — and I love teaching others to do the same.
 Currently running [De'Brains Tech](https://debrainstech.com/), a software engineering bootcamp where I wear the hats of CEO, lead engineer, and instructor.
@@ -37,7 +37,6 @@ Built with **HTML · CSS · Vanilla JS · Node.js · Firebase**.
 - 💻 Passionate about building great UIs and writing clean, maintainable code
 - 🎓 Teaching and mentoring developers through De'Brains Tech Bootcamp
 - 🌍 Open-source enthusiast and Linux advocate
-- 📹 Growing my [YouTube channel](https://www.youtube.com/channel/UC9WkyxpMd4-c1QRIX5278WQ) — coding content for devs at every level
 - 🤝 Open to collaborating on AI tools, scalable web apps, and open-source projects
 
 ---
