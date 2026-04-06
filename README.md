@@ -1,43 +1,54 @@
 # Hi, I'm Levi Precious Izuchi 👋
+**Full-Stack Software Engineer · Founder · Instructor**
 
-**Software Engineer**
-
-I build fast, clean, and scalable web applications — and I love teaching others to do the same.
-Currently running [De'Brains Tech](https://debrainstech.com/), a software engineering bootcamp where I wear the hats of CEO, lead engineer, and instructor.
+I build production-grade web applications — clean architecture, real users, real impact.
+Currently running [De'Brains Tech](https://debrainstech.com/), a software engineering bootcamp where I serve as CEO, software engineer, and instructor simultaneously.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**
-`React` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `React Native`
+`React` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3`
 
 **Styling**
 `Tailwind CSS` `shadcn/ui` `Vanilla CSS`
 
-**Backend & Tools**
-`Node.js` `Express.js` `MongoDB` `Firebase` `Bun` `Docker` `Git`
+**Backend & Database**
+`Node.js` `Express.js` `MongoDB` `Firebase`
+
+**Tools & DevOps**
+`Git` `GitHub` `Docker` `Bun` `pnpm`
 
 ---
 
 ## 🚀 Featured Projects
 
-### [De'Brains Tech Website](https://debrainstech.com/)
-Company website for my software engineering bootcamp — built with **React + TypeScript + Tailwind CSS**.
-Fully responsive, cross-browser compatible, and performance optimized.
+### [PARK — Progressive Association Record Keeper](https://progressive-association-record-keep.vercel.app/)
+A full-stack financial record-keeping platform built for local cooperatives and Ajo associations.
+Stack: **React · TypeScript · Node.js · Express · MongoDB**
+
+- Immutable ledger — transactions cannot be edited or deleted once recorded
+- Remote-accessible passbooks — members track contributions in real time without attending meetings
+- Built-in audit trail — every entry is tied to the admin who recorded it
+- Successfully migrated a real organization off manual spreadsheets onto the platform
 
 ### [Bretil Mart](https://bretil-mart.web.app/)
 A modern online grocery marketplace with real-time delivery tracking, secure payments, and an adaptive shopping experience.
-Built with **HTML · CSS · Vanilla JS · Node.js · Firebase**.
+Stack: **HTML · CSS · Vanilla JS · Node.js · Firebase**
+
+### [De'Brains Tech Website](https://debrainstech.com/)
+Public-facing company website for my software engineering bootcamp.
+Stack: **React · TypeScript · Tailwind CSS** — fully responsive, performance optimized, cross-browser compatible.
 
 ---
 
 ## 📌 What I'm About
 
-- 💻 Passionate about building great UIs and writing clean, maintainable code
-- 🎓 Teaching and mentoring developers through De'Brains Tech Bootcamp
-- 🌍 Open-source enthusiast and Linux advocate
-- 🤝 Open to collaborating on AI tools, scalable web apps, and open-source projects
+- 🏗️ I care about writing code that's maintainable six months later, not just functional today
+- 🎓 Teaching and mentoring the next generation of engineers through De'Brains Tech Bootcamp
+- 🌍 Open to collaborating on full-stack web apps, internal tools, and open-source projects
+- 📜 Certified by the **Skills Development Council Canada** — Advanced Diploma in Software Engineering
 
 ---
 
@@ -45,7 +56,6 @@ Built with **HTML · CSS · Vanilla JS · Node.js · Firebase**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-precious-1a2898374/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leviprecious324@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9WkyxpMd4-c1QRIX5278WQ)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@brainbox7003)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brainbox7003/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/home)
